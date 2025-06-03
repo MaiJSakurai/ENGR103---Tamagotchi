@@ -7,3 +7,9 @@ This game turns the circuit board into a little “Tamagotchi” that you must a
 Rules: 
 If a health point is deducted, you can only get it back through rest.
 If Tamagotchi dies, you cannot revive it.
+
+Controls:
+When the LEDs on the Tamagotchi become blue, you want to either play, feed, or put the Tamagotchi to sleep. 
+PLAY/FEED - Playing is done by pressing the left button (red LEDs) and feeding is the right button (yellow LEDs). 
+SLEEP - The Tamagotchi goes to sleep with the switch, and will regain health by 1 point/1 tenth of a second (purple LEDs with a breathing effect). 
+SPIN - Change the spin by moving the circuit board around. 
